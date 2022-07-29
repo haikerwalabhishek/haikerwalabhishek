@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**haikerwalabhishek/haikerwalabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abhishek! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a Full Stack Data Scientist.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/haikerwalabhishek)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abhishek-haikerwal-a827781a0)
+
+
+## 🛠 Skills
+1.Python
+
+2.MySQL
+
+3.TABLEAU
+
+4.Data Science
+
+3.Machine Learning
+
+4.Deep Learning
+
+5.Artificial Intelligence
+
+6.POWER BI
