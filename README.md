@@ -7,10 +7,10 @@ I'm a Full Stack Developer
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/haikerwalabhishek)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abhishek-haikerwal-a827781a0)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hackerrank.com/profile/abhihaikerwal37)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://leetcode.com/haikerwal/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/haikerwalabhishek)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abhishek-haikerwal-a827781a0)
+[![Hacker Rank](https://img.shields.io/badge/Hacker_Rank-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hackerrank.com/profile/abhihaikerwal37)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://leetcode.com/haikerwal/)
 
 
 
