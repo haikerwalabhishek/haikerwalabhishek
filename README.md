@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Full Stack Data Scientist.
+I'm a Full Stack Developer
 
 
 ## 🔗 Links
@@ -12,18 +12,12 @@ I'm a Full Stack Data Scientist.
 
 
 ## 🛠 Skills
-1.Python
-
-2.MySQL
-
-3.TABLEAU
-
-4.Data Science
-
-3.Machine Learning
-
-4.Deep Learning
-
-5.Artificial Intelligence
-
-6.POWER BI
+1. Python
+2. Data structure and Algorithms (Python, Java)
+3. HTML
+4. CSS (flexbox, grid, bootstrap)
+5. JavaScript
+6. Node.js, Express.js, MongoDB
+7. React
+8. SQL
+9. Data Science (Pandas, Numpy, sklearn, machine learning, tableau, excel, power bi, supervised learning, unsupervised learning)
