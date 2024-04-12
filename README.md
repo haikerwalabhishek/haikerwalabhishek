@@ -15,12 +15,16 @@ I'm a Full Stack Developer
 
 
 ## 🛠 Skills
-1. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-2. ![DSA](https://img.shields.io/badge/DSA-006600?style=for-the-badge)
-3. HTML
-4. CSS (flexbox, grid, bootstrap)
-5. JavaScript
-6. Node.js, Express.js, MongoDB
-7. React
-8. SQL
-9. Data Science (Pandas, Numpy, sklearn, machine learning, tableau, excel, power bi, supervised learning, unsupervised learning)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![DSA](https://img.shields.io/badge/DSA-006600?style=for-the-badge)
+ ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=cssl&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascriptl&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodbl&logoColor=white)
+ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=reactl&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodejsl&logoColor=white)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresqll&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysqll&logoColor=white)
+ ![SciKit Learn](https://img.shields.io/badge/SciKit_Learn-F7931E?style=for-the-badge&logo=scikitlearnl&logoColor=white)
+ ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandasl&logoColor=white)
+ ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpyl&logoColor=white) 
