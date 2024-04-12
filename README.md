@@ -10,7 +10,7 @@ I'm a Full Stack Developer
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/haikerwalabhishek)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abhishek-haikerwal-a827781a0)
 [![Hacker Rank](https://img.shields.io/badge/Hacker_Rank-000?style=for-the-badge&logo=ko-fi&logoColor=Green)](https://www.hackerrank.com/profile/abhihaikerwal37)
-![Static Badge](https://img.shields.io/badge/leetcode-https%3A%2F%2Fleetcode.com%2Fhaikerwal?logo=leetcode&logoColor=black)
+[![Static Badge](https://img.shields.io/badge/leetcode-https%3A%2F%2Fleetcode.com%2Fhaikerwal?logo=leetcode&logoColor=black)]
 (https://leetcode.com/haikerwal/)
 
 
