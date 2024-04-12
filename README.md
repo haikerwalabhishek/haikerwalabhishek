@@ -15,8 +15,8 @@ I'm a Full Stack Developer
 
 
 ## 🛠 Skills
-1. Python [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=leetcode&logoColor=white)]
-2. Data structure and Algorithms (Python, Java)
+1. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+2. ![DSA](https://img.shields.io/badge/DSA-006600?style=for-the-badge)
 3. HTML
 4. CSS (flexbox, grid, bootstrap)
 5. JavaScript
