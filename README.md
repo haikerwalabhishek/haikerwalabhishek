@@ -7,7 +7,7 @@ I'm a full-stack developer passionate about crafting digital experiences. I love
 
 
 ## 📬 How to Reach Me
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](abhihaikerwal98@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)(abhihaikerwal98@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abhishek-haikerwal-a827781a0)
 
 
