@@ -2,13 +2,22 @@
 # Hi, I'm Abhishek! 👋
 
 
-## 🚀 About Me
-Hi there! 👋 I'm a full-stack developer passionate about crafting digital experiences. I love bringing ideas to life and solving challenges through
+## 😎 About Me
+I'm a full-stack developer passionate about crafting digital experiences. I love bringing ideas to life and solving challenges through
 
 
-## 🔗 Links
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/haikerwalabhishek)
+## 📬 How to Reach Me
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](abhihaikerwal98@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abhishek-haikerwal-a827781a0)
+
+
+
+## 💼 My Portfolio
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/haikerwalabhishek)
+
+
+
+## 🚀 My Activities
 [![Hacker Rank](https://img.shields.io/badge/Hacker_Rank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abhihaikerwal37)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/haikerwal/)
 
@@ -31,6 +40,3 @@ Hi there! 👋 I'm a full-stack developer passionate about crafting digital expe
  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) 
  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
-
- ## 🚀 How to Reach Me
- abhihaikerwal98@gmail.com
