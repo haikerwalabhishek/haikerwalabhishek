@@ -4,6 +4,7 @@
 
 ## 😎 About Me
 I'm a full-stack developer passionate about crafting digital experiences.
+currently working in TechEunoia International Pvt. Ltd.
 
 I love bringing ideas to life and solving challenges through code.
 
